@@ -1,1 +1,1 @@
-# oppo-smart-phone-web-scrapping
+# samsung-smart-phone-web-scrapping
